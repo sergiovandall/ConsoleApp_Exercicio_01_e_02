@@ -8,6 +8,7 @@ namespace ConsoleApp_Exercicio_01_e_02
 	{
 		static void Main(string[] args)
 		{
+			// Exercicio 1
 			Console.Clear();
 
 			string nomeDisciplina = string.Empty;
